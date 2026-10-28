@@ -1,0 +1,1 @@
+# QR_Code_Safety_Analyzer
